@@ -29,8 +29,8 @@ I am very much a kid at heart, love to cook my brain, listen to jazz :saxophone:
 <br></details>
 <!-- footer --!>
 
-    <a id="LinkedIn" href="https://www.linkedin.com/in/fahimhasantalukder/"><img width="27px" src="https://thekrishna.in/K-Kraken/img/linkedin.png" alt="Krishnakanth Alagiri - LinkedIn" /></a> 
+    <a id="LinkedIn" href="https://www.linkedin.com/in/fahimhasantalukder/"><img width="27px" src="https://thekrishna.in/K-Kraken/img/linkedin.png" alt="LinkedIn" /></a> 
     &nbsp;&nbsp;
-    <a id="Mail" href="mailto:mrfahimtalukder@gmail.com"><img width="27px" src="https://thekrishna.in/K-Kraken/img/mail.png?" alt="Krishnakanth Alagiri - Mail"/></a>
+    <a id="Mail" href="mailto:mrfahimtalukder@gmail.com"><img width="27px" src="https://thekrishna.in/K-Kraken/img/mail.png?" alt="Mail"/></a>
 </p>
 <img src="https://imgur.com/rilHVxA.png"/>
