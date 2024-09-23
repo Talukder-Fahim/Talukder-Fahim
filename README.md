@@ -1,10 +1,10 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 ## Fahim Hasan Talukder (Him/He) 
-- 🔭 I’m a Student of Data Scienctist from United International University
-- 💬 Let's talk about Machine Learning, AI, and Datascience.
+-  I’m a Student of Data Scienctist from United International University
+- Let's talk about Machine Learning, AI, and Datascience.
 - 📫 **How to reach me**:  [LinkedIn](https://www.linkedin.com/in/fahimhasantalukder/)
-- ⚡ **Unbelievable fact**: My first words were "Hello world". (I warned you!)
+
 
 <details>
 
